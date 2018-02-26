@@ -1,0 +1,22 @@
+PODS:
+  - CodableMapper (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - CodableMapper (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  CodableMapper:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CodableMapper: 1ccd91f514ca6e35e43bb143321c9a3be5efee89
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: f9aa7877792cdb7a9ca47425816b3f74db70edba
+
+COCOAPODS: 1.4.0
