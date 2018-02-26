@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "6452BED7CADC0FDF622327438C76F223"
+               BlueprintIdentifier = "D71C7A5A20446110009815FC"
                BuildableName = "CodableMapper.framework"
                BlueprintName = "CodableMapper"
-               ReferencedContainer = "container:Pods/Pods.xcodeproj">
+               ReferencedContainer = "container:CodableMapper.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,7 +29,26 @@
       language = ""
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D71C7A6320446110009815FC"
+               BuildableName = "CodableMapperTests.xctest"
+               BlueprintName = "CodableMapperTests"
+               ReferencedContainer = "container:CodableMapper.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "D71C7A5A20446110009815FC"
+            BuildableName = "CodableMapper.framework"
+            BlueprintName = "CodableMapper"
+            ReferencedContainer = "container:CodableMapper.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -47,10 +66,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6452BED7CADC0FDF622327438C76F223"
+            BlueprintIdentifier = "D71C7A5A20446110009815FC"
             BuildableName = "CodableMapper.framework"
             BlueprintName = "CodableMapper"
-            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            ReferencedContainer = "container:CodableMapper.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -65,10 +84,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "6452BED7CADC0FDF622327438C76F223"
+            BlueprintIdentifier = "D71C7A5A20446110009815FC"
             BuildableName = "CodableMapper.framework"
             BlueprintName = "CodableMapper"
-            ReferencedContainer = "container:Pods/Pods.xcodeproj">
+            ReferencedContainer = "container:CodableMapper.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
